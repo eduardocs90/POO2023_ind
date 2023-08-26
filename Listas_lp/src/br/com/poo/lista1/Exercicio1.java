@@ -5,7 +5,7 @@ import java.util.Scanner;
 //programa do portugol
 public class Exercicio1 {
 	
-	//fução inicio do portugol
+	//função inicio do portugol
 	//função no portugol agora -> metodo no java
 	
 	public static void main(String[] args) {
