@@ -1,12 +1,11 @@
-//POSEIDON
-package br.com.poo.lista1;
+package br.com.poo.ExerciciosAula;
 
 //ferpackage br.com.poo.lista1;
 
 import java.util.Scanner;
 
 //programa do portugol
-public class Exercicio1 {
+public class ExercicioAula1 {
 	
 	//função inicio do portugol
 	//função no portugol agora -> metodo no java
@@ -40,3 +39,5 @@ public class Exercicio1 {
 
 }
 //botão direto do mause encima do arquivo -> run as-> java aplication ( para executar o code)
+
+
