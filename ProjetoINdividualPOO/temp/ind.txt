@@ -1,0 +1,14 @@
+1;Eduardo;Tecnico-TI;5800.0;20/11/1990;
+2;Julia;Desenvolvedora;4900.0;22/07/2001;
+3;Lucas;Analista-de-Sistemas;3200.0;11/03/2000
+4;Ana;Desenvolvedora de Software;6500.0;15/05/1988;
+5;Luiz;Analista de Segurança da Informação;7200.0;10/09/1985;
+6;Carla;Engenheira de Dados;6900.0;25/03/1992;
+7;Rafael;Arquiteto de Soluções;8000.0;03/07/1980;
+1;TI;Arnaldo;223576991;
+2;RH;Déby;224514973;
+3;Desenvolvimento;Maria;22448899;
+4;Suporte Técnico;João;22449900;
+5;Marketing;Jair;22447799;
+6;Vendas;Ana;22446688;
+7;Recursos Humanos;Carlos;22445577;
