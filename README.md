@@ -3,7 +3,7 @@
 Sistema de Gestão de Departamentos e Funcionários
 
 Este projeto consiste em um sistema de gerenciamento de departamentos e funcionários, desenvolvido em Java.
-Ele oferece edição e visualização de informações relacionadas a departamentos e funcionários.
+Ele oferece visualização de informações relacionadas a departamentos e funcionários.
 
 <h2>Classes</h2>
 Departamento<br>
